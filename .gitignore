@@ -1,0 +1,7 @@
+*
+!.gitignore
+!guix/system.scm
+!guix/signing-key.pub
+!guix/channels.scm
+!guix/home/.bash_profile
+!guix/home/home-configuration.scm
